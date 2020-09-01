@@ -19,9 +19,9 @@ const IndexPage = ({ data }) => (
     <Header />
     <About />
     <Resume />
-    {/*<Portfolio />
+    <Portfolio />
     
-    <Testimonials />
+    {/*<Testimonials />
     <Footer />*/}
   </div>
 );
