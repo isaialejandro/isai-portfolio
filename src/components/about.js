@@ -38,11 +38,11 @@ const About = () => (
             </p>
           </div>
           <div className="columns download">
-            <p>
+            {/*<p>
               <a href="/#" className="button">
-                <FaCloudDownloadAlt /> Download Resume {/* PENDING */}
+                <FaCloudDownloadAlt /> Download Resume
               </a>
-            </p>
+            </p>*/}
           </div>
         </div>
       </div>

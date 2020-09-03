@@ -15,6 +15,7 @@ const Work = () => (
 
           <div className="twelve columns">
             <h3>CMAIG (Coordinación de Modernización Administrativa e Innovación Gubernamental)</h3>
+            {/*<img className="profile-pic" src={ profile_img }  alt="" />*/}
             <p className="info">
               Python | Web Developer
               <span>&bull;</span>
