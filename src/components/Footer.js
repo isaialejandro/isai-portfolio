@@ -10,9 +10,8 @@ const Footer = () => (
 
         <ul className="copyright">
           <li>
-            <a> [ IsaiAlejandro ] - &copy; 2020 </a> 
+            <a href="#/"> [ IsaiAlejandro ] - &copy; 2020 </a>
           </li>
-          
         </ul>
       </div>
 

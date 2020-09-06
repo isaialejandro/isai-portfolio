@@ -1002,7 +1002,7 @@ ul#nav li a:active {
   background-color: transparent !important;
 }
 ul#nav li.current a {
-  color: #f06000;
+  color: #11abb0;
 }
 
 /* ------------------------------------------------------------------ */
@@ -2087,7 +2087,7 @@ footer .social li:first-child {
  /* mobile navigation
  -------------------------------------------------------------------- */
  #nav-wrap {
-    font: 12px 'opensans-bold', sans-serif;
+    font: 15px 'opensans-bold', sans-serif;
     background: transparent !important;
     letter-spacing: 1.5px;
     width: auto;
@@ -2099,7 +2099,7 @@ footer .social li:first-child {
    width: 48px;
   height: 48px;
   text-align: left;
-  background-color: #CC5200;
+  background-color: #9fd7e4;
   position: relative;
     border: none;
     float: right;
@@ -2115,12 +2115,12 @@ footer .social li:first-child {
 
 #nav-wrap > a:before,
  #nav-wrap > a:after {
-   position: absolute;
-  border: 2px solid #fff;
-  top: 35%;
-  left: 25%;
-  right: 25%;
-  content: '';
+    position: absolute;
+    border: 2px solid #fff;
+    top: 35%;
+    left: 25%;
+    right: 25%;
+    content: '';
 }
  #nav-wrap > a:after { top: 60%; }
 
