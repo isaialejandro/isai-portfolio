@@ -8,7 +8,7 @@ module.exports = {
     `gatsby-plugin-react-helmet`,
     `gatsby-plugin-sass`,
     `gatsby-plugin-smoothscroll`,
-    `gatsby-plugin-goatcounter`,
+    //`gatsby-plugin-goatcounter`,
     {
       resolve: `gatsby-source-filesystem`,
       options: {
